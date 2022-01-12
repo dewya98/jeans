@@ -1,3 +1,3 @@
 <?php 
-$conn=mysqli_connect("localhost","root","autoset","testdb");
+$conn=mysqli_connect("localhost","root","","testdb");
 ?>
